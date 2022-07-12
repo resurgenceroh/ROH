@@ -1,36 +1,35 @@
-# Welcome to Resurgence of hope
+# Table of contents
 
-* [Welcome to Resurgence of hope](Welcome/welcome.md)
+* [Welcome to Resurgence of hope](README.md)
 * [Introduction of Resurgence of hope](Welcome/introduction.md)
 
 ## Game introduction
 
-- [Deity puppet](introduction/deity.md)
-- [Battle](introduction/bettle.md)
-- [Gameplay](introduction/gameplay.md)
-- [Task](introduction/task.md)
+* [Deity puppet](introduction/deity.md)
+* [Battle](introduction/bettle.md)
+* [Gameplay](introduction/gameplay.md)
+* [Task](introduction/task.md)
 
 ## E-sports
 
-- [E-sport](esport/esport.md)
-
+* [E-sport](esport/esport.md)
 * [Challenge](esport/challenge.md)
 * [Invitational match](esport/match.md)
 * [World Tournament](esport/world.md)
 
 ## Our currency
 
-* [$SEED ](currency/seed.md)
-* [$RHC ](currency/rhc.md)
+* [$SEED](currency/seed.md)
+* [$RHC](currency/rhc.md)
 
 ## Ecological strategy roadmap
 
-- [Roadmap](Roadmap/roadmap.md)
+* [Roadmap](Roadmap/roadmap.md)
 
 ## Team introduction
 
-- [Team introduction](Team/team.md)
+* [Team introduction](Team/team.md)
 
 ## Contact us
 
-- [Contact us](Contact/contact.md)
+* [Contact us](Contact/contact.md)
