@@ -44,7 +44,7 @@ Dominant genes determine which body parts actually exist on the deity puppet. In
 
 Simply click on one of the puppets in your inventory to get to the page.
 
-![](../.gitbook/assets/lf.png)
+![](../.gitbook/assets/zc.png)
 
 Next, click linking fire
 
@@ -78,7 +78,7 @@ Step4: find out more details about the deity puppet on sale in the market. If yo
 
 Step5: Click "Assets" to view the details of your digital assets and find your deity puppet in the "NFT" section after the successful purchase
 
-![](../.gitbook/assets/zc.png)
+![](../.gitbook/assets/lf.png)
 
 _**\*Deity puppet level\***_
 
