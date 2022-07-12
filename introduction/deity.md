@@ -36,15 +36,19 @@ Each deity puppet has five body parts, and each part corresponds to three genes.
 
 Dominant genes determine which body parts actually exist on the deity puppet. In reproduction, each gene has a chance of being passed on to future generations:
 
-Dominant (D) : 37.5% chance of passing the gene on to offspring.
+**Dominant (D)** : 37.5% chance of passing the gene on to offspring.
 
-Recessive (R1) : 9.375% chance of passing the gene on to offspring
+**Recessive (R1)** : 9.375% chance of passing the gene on to offspring
 
-Small recessive (R2) : 3.125% chance of passing the gene on to offspring
+**Small recessive (R2)** : 3.125% chance of passing the gene on to offspring
 
 Simply click on one of the puppets in your inventory to get to the page.
 
+![](../.gitbook/assets/lf.png)
+
 Next, click linking fire
+
+![](../.gitbook/assets/lf1.png)
 
 Then choose a deity puppet to link fire with;
 
@@ -58,13 +62,23 @@ The ROH market has been launched. Players can purchase deity puppets through the
 
 Step1: open ROH official website (website: HTTPS ://) and click "Market".
 
+![](../.gitbook/assets/scgm.png)
+
 Step2: Enter ROH NFT market and click "My wallet" to connect your wallet.
+
+![](../.gitbook/assets/qb.png)
 
 Step3: Screen and sort through the interface to find your favorite deity puppet.
 
+![](../.gitbook/assets/px.png)
+
 Step4: find out more details about the deity puppet on sale in the market. If you have enough tokens in your wallet, click the "Buy now" button to purchase the deity puppet.
 
+![](../.gitbook/assets/gm.png)
+
 Step5: Click "Assets" to view the details of your digital assets and find your deity puppet in the "NFT" section after the successful purchase
+
+![](../.gitbook/assets/zc.png)
 
 _**\*Deity puppet level\***_
 
