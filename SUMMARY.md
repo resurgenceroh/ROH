@@ -19,6 +19,7 @@
 
 ## Our currency
 
+* [Our currency](currency/currency.md)
 * [$SEED](currency/seed.md)
 * [$RHC](currency/rhc.md)
 
