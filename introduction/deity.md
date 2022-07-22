@@ -60,7 +60,7 @@ After 5 days, you can transform your deity puppet seed into an adult deity puppe
 
 The ROH market has been launched. Players can purchase deity puppets through the ROH NFT marketplace. Here are the steps:
 
-Step1: open ROH official website (website: roh.games) and click "Market".
+Step1: open ROH official website (website: HTTPS ://) and click "Market".
 
 ![](../.gitbook/assets/scgm.png)
 
