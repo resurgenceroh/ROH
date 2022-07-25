@@ -22,11 +22,11 @@ _**\*Explanation of tinder\***_
 
 Under the persistent experiment, the prodigy Ouidah finally found a way to improve the deity puppet; Ouidah put the two avatars together, and through the seed of the World Tree, blended the energy of the two avatars, and the third avatars were born. The avatars combined their abilities according to the first two avatars, which was called spreading fire.
 
-In ROH, an deity puppet can create a new deity puppet by linking fire, and the new deity puppet will inherit some of the power of the previous generation. Each hero has a fixed number of times to link the fire, after reaching the number of times, the deity puppet can not link the fire
+In ROH, an deity puppet can create a new deity puppet by linking fire, and the new deity puppet will inherit some of the power of the previous generation. Each hero has a fixed number of times to link the fire, after reaching the number of times, the deity puppet can not link the fire.
 
-Linking fire costs tokens: "$SEED", depending on how many times the hero fires
+Linking fire costs tokens: "$SEED", depending on how many times the hero fires.
 
-Heroes cannot link the fire again with their descendants, nor can they link the fire with their next of kin
+Heroes cannot link the fire again with their descendants, nor can they link the fire with their next of kin.
 
 Resurgence of Hope does not sell directly to players: $SEED
 
@@ -36,7 +36,7 @@ Each deity puppet has five body parts, and each part corresponds to three genes.
 
 Dominant genes determine which body parts actually exist on the deity puppet. In reproduction, each gene has a chance of being passed on to future generations:
 
-**Dominant (D)** : 37.5% chance of passing the gene on to offspring.
+**Dominant (D)** : 37.5% chance of passing the gene on to offspring
 
 **Recessive (R1)** : 9.375% chance of passing the gene on to offspring
 
@@ -46,11 +46,11 @@ Simply click on one of the puppets in your inventory to get to the page.
 
 ![](../.gitbook/assets/zc.png)
 
-Next, click linking fire
+Next, click linking fire.
 
 ![](../.gitbook/assets/lf1.png)
 
-Then choose a deity puppet to link fire with;
+Then choose a deity puppet to link fire with.
 
 The deity puppet takes five days to mature.
 
@@ -60,7 +60,7 @@ After 5 days, you can transform your deity puppet seed into an adult deity puppe
 
 The ROH market has been launched. Players can purchase deity puppets through the ROH NFT marketplace. Here are the steps:
 
-Step1: open ROH official website (website: HTTPS ://) and click "Market".
+Step1: open ROH official website (website: roh.games) and click "Market".
 
 ![](../.gitbook/assets/scgm.png)
 
@@ -76,7 +76,7 @@ Step4: find out more details about the deity puppet on sale in the market. If yo
 
 ![](../.gitbook/assets/gm.png)
 
-Step5: Click "Assets" to view the details of your digital assets and find your deity puppet in the "NFT" section after the successful purchase
+Step5: Click "Assets" to view the details of your digital assets and find your deity puppet in the "NFT" section after the successful purchase.
 
 ![](../.gitbook/assets/lf.png)
 
@@ -86,10 +86,10 @@ Deity puppets can gain puppet experience through PVE play, and puppet experience
 
 _**\*Talent of deity puppet\***_
 
-The talent of deity puppet is 5 categories, precision: enhance general attack; Dominate: enhance the strength of physical skills; Witchcraft: increases the strength of spell skills; Resolute: enhance hero's tolerance; Enlightenment: enhance the effect of props
+The talent of deity puppet is 5 categories, precision: enhance general attack; Dominate: enhance the strength of physical skills; Witchcraft: increases the strength of spell skills; Resolute: enhance hero's tolerance; Enlightenment: enhance the effect of props.
 
-Each type of talent has 12 talents, a total of 60 talents. Players can choose the most suitable 8 talents for their deity puppet
+Each type of talent has 12 talents, a total of 60 talents. Players can choose the most suitable 8 talents for their deity puppet.
 
-Talent will strengthen your deity puppet and make it play a more powerful role in battle
+Talent will strengthen your deity puppet and make it play a more powerful role in battle.
 
 Puppets can gain puppet experience through PVE play, and puppet experience can be used to upgrade puppets. The upgraded deity puppet can strengthen the attributes and skills of the deity puppet; When the puppet trades, the level will change to level 1.
