@@ -11,3 +11,5 @@ In the end, 16 teams will be selected for the World Championship according to th
 The event will be presented by holographic projection at the scene, and we will give the audience a visual feast. The online event will be streamed globally in partnership with YouTube Live.
 
 During the invitational tournament, we will open the guessing system in the game, players can support the team they like or admire by guessing. Guessing will be conducted using $RHC and the guessing rate for each match will be adjusted according to real-time match ups.
+
+![](../.gitbook/assets/yqs.jpg)
