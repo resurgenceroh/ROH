@@ -15,3 +15,5 @@ The live broadcast of the World Match will be set in the virtual theater created
 There will be some advertising space in the theatre, some of which will be auctioned off, and some of which will be given free to sponsors who have made outstanding contributions to the ROH.
 
 World Tournament Prize: The team that wins the world championship will be rewarded with a huge amount of cryptocurrency, 20% of which will be withdrawn from the Treasury and the supply of sponsors; At the same time, we will set up statues or buildings around the theater for the champion team. The champion team has the ownership of the building. We will make the appearance of the building and have a separate scene in the building according to the requirements of all the builders.
+
+![](../.gitbook/assets/world.png)
