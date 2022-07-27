@@ -30,6 +30,8 @@ Heroes cannot link the fire again with their descendants, nor can they link the 
 
 Resurgence of Hope does not sell directly to players: $SEED
 
+![](<../.gitbook/assets/link fire.jpg>)
+
 _**\*Genetics of linking the fire\***_
 
 Each deity puppet has five body parts, and each part corresponds to three genes. Dominant (D), recessive (R1) and minor recessive (R2) genes.
