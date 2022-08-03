@@ -72,7 +72,7 @@ Step2: Enter ROH NFT market and click "My wallet" to connect your wallet.
 
 Step3: Screen and sort through the interface to find your favorite deity puppet.
 
-![](../.gitbook/assets/3.png)
+![](<../.gitbook/assets/3 (1).png>)
 
 Step4: find out more details about the deity puppet on sale in the market. If you have enough tokens in your wallet, click the "Buy now" button to purchase the deity puppet.
 
