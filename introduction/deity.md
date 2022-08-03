@@ -50,7 +50,7 @@ Simply click on one of the puppets in your inventory to get to the page.
 
 Next, click linking fire.
 
-![](../.gitbook/assets/lf1.png)
+![](<../.gitbook/assets/link fire.png>)
 
 Then choose a deity puppet to link fire with.
 
@@ -68,15 +68,15 @@ Step1: open ROH official website (website: roh.games) and click "Market".
 
 Step2: Enter ROH NFT market and click "My wallet" to connect your wallet.
 
-![](../.gitbook/assets/qb.png)
+![](../.gitbook/assets/2.png)
 
 Step3: Screen and sort through the interface to find your favorite deity puppet.
 
-![](../.gitbook/assets/px.png)
+![](../.gitbook/assets/3.png)
 
 Step4: find out more details about the deity puppet on sale in the market. If you have enough tokens in your wallet, click the "Buy now" button to purchase the deity puppet.
 
-![](../.gitbook/assets/gm.png)
+![](../.gitbook/assets/4.png)
 
 Step5: Click "Assets" to view the details of your digital assets and find your deity puppet in the "NFT" section after the successful purchase.
 
