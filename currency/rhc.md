@@ -5,3 +5,11 @@ $RHC is Resurgence of the world of Hope's governance token. $RHC holders have th
 **Total supply: initial 540,000 million**
 
 ![](../.gitbook/assets/fp.png)
+
+**Timetable of publishing tokens**
+
+![](../.gitbook/assets/total.jpg)
+
+![](../.gitbook/assets/1.png)
+
+![](<../.gitbook/assets/2 (1).png>)
